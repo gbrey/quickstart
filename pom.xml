@@ -28,6 +28,8 @@
       <module>kitchensink</module>
       <module>helloworld-osgi</module>
       <module>rs-helloworld</module>
+      <module>rs-xml-crud</module>
+      <module>rs-json-crud</module>
    </modules>
    
 </project>
